@@ -1,0 +1,28 @@
+form {
+	width: 500px;
+	margin: 0 auto;
+	margin-top: 50px;
+	border-radius: 5px;
+	padding: 50px;
+	background-color: #9bd2f2;
+}
+
+label {
+	font-weight: bold;
+}
+
+input {
+	display: block;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+button {
+	width: 100%;
+	color: white;
+	border: none;
+	background-color: green;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 19px;
+}

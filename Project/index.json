@@ -1,0 +1,14 @@
+{
+	"details": [{
+	"first": "Dylan",
+	"last": "Saw",
+	"email": "test@gmail.com",
+	"password": "password"
+
+}, {
+	"first": "Bob",
+	"last": "Marley",
+	"email": "test2@gmail.com",
+	"password": "password"
+}]
+}
